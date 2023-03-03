@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////////
-//Name: Eddie G. Pineda																			   //
-//Date: 12/01/2022																				   //
+//Name: Eddie G. Pineda										   //
+//Date: 12/01/2022										   //
 //Program Statement: Design a simple linked list class with only two member functions and a        //
 //                   default constructor using an appropiate definition of listNode.               //
 //                   Member functions: void add(double x);                                         //
